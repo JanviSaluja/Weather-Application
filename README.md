@@ -7,6 +7,7 @@
   
 ## About The Project:
 - Has a search area and button to input the name of the city and show the current weather of the city mentioned.
+- Displays temperature of the city along with other details that is, humidity and wind speed.
 
 ## Installation:
 - Download the zip file containing the code.
